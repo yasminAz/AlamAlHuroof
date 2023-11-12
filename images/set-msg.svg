@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.1" height="47.384" viewBox="0 0 47.1 47.384">
+  <g id="Group_12918" data-name="Group 12918" transform="translate(-420.018 -329)">
+    <g id="baseline-question_answer-24px" transform="translate(420.018 332.948)">
+      <path id="Path_592" data-name="Path 592" d="M0,0H43.436V43.436H0Z" fill="rgba(0,0,0,0)"/>
+      <path id="Path_593" data-name="Path 593" d="M36.387,9.239h-3.62V25.528H9.239v3.62a1.815,1.815,0,0,0,1.81,1.81H30.957L38.2,38.2V11.049A1.815,1.815,0,0,0,36.387,9.239ZM29.148,20.1V3.81A1.815,1.815,0,0,0,27.338,2H3.81A1.815,1.815,0,0,0,2,3.81V29.148l7.239-7.239h18.1A1.815,1.815,0,0,0,29.148,20.1Z" transform="translate(1.62 1.62)" fill="#d9d9d9"/>
+    </g>
+    <g id="Group_12768" data-name="Group 12768" transform="translate(-256 283)">
+      <g id="Ellipse_340" data-name="Ellipse 340" transform="translate(705.118 47)" fill="#d74837" stroke="#fff" stroke-width="1">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="8.5" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(716.118 60)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="-7.008" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>
